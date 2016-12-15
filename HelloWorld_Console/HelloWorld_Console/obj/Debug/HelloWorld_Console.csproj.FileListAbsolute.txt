@@ -1,0 +1,6 @@
+D:\C# 2017\HelloWorld_Console\HelloWorld_Console\bin\Debug\HelloWorld_Console.exe.config
+D:\C# 2017\HelloWorld_Console\HelloWorld_Console\bin\Debug\HelloWorld_Console.exe
+D:\C# 2017\HelloWorld_Console\HelloWorld_Console\bin\Debug\HelloWorld_Console.pdb
+D:\C# 2017\HelloWorld_Console\HelloWorld_Console\obj\Debug\HelloWorld_Console.csprojResolveAssemblyReference.cache
+D:\C# 2017\HelloWorld_Console\HelloWorld_Console\obj\Debug\HelloWorld_Console.exe
+D:\C# 2017\HelloWorld_Console\HelloWorld_Console\obj\Debug\HelloWorld_Console.pdb
