@@ -1,0 +1,6 @@
+C:\Users\Hans\Documents\GitHub\C-\IntegralTypes\IntegralTypes\bin\Debug\IntegralTypes.exe.config
+C:\Users\Hans\Documents\GitHub\C-\IntegralTypes\IntegralTypes\obj\Debug\IntegralTypes.csprojResolveAssemblyReference.cache
+C:\Users\Hans\Documents\GitHub\C-\IntegralTypes\IntegralTypes\bin\Debug\IntegralTypes.exe
+C:\Users\Hans\Documents\GitHub\C-\IntegralTypes\IntegralTypes\bin\Debug\IntegralTypes.pdb
+C:\Users\Hans\Documents\GitHub\C-\IntegralTypes\IntegralTypes\obj\Debug\IntegralTypes.exe
+C:\Users\Hans\Documents\GitHub\C-\IntegralTypes\IntegralTypes\obj\Debug\IntegralTypes.pdb
