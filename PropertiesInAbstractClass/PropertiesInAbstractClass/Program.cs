@@ -33,7 +33,7 @@ namespace PropertiesInAbstractClass
                 ProductDate = new DateTime(2016, 12, 23)
             };
 
-            Console.WriteLine("Product : {0}, Product Date : {1}", product_1.SerialID, product_1.ProductDate);
+            Console.WriteLine("Product : {0}, Prowduct Date : {1}", product_1.SerialID, product_1.ProductDate);
 
             Product product_2 = new MyProduct()
             {
